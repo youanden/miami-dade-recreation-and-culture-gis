@@ -1,0 +1,629 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.28651274248956, 
+            25.73394940900484
+          ], 
+          [
+            -80.28651954954425, 
+            25.73403974388729
+          ], 
+          [
+            -80.28639906744813, 
+            25.731661920395084
+          ], 
+          [
+            -80.28554378594686, 
+            25.708321949713515
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 1.8, 
+        "LIMIT": "US-1 to SW 40 St", 
+        "NAME": "SW 57 Ave", 
+        "SHAPE_LEN": 9386.00063215
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15380161764257, 
+            25.926141555903524
+          ], 
+          [
+            -80.15427714164403, 
+            25.92446227329256
+          ], 
+          [
+            -80.15500033976558, 
+            25.922103086708972
+          ], 
+          [
+            -80.15587159532737, 
+            25.918786620628083
+          ], 
+          [
+            -80.15674597981948, 
+            25.915023033273638
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 0.8, 
+        "LIMIT": "NE 151 St to NE 163 St", 
+        "NAME": "SR 5/Biscayne Blvd", 
+        "SHAPE_LEN": 4156.85032433
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.15667535049218, 
+            25.915022622384313
+          ], 
+          [
+            -80.15741296369771, 
+            25.910619472603393
+          ], 
+          [
+            -80.15893281505899, 
+            25.905454343808422
+          ], 
+          [
+            -80.16052405311318, 
+            25.900161853752746
+          ], 
+          [
+            -80.1605960287461, 
+            25.899970642359182
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 1.1, 
+        "LIMIT": "NE 135 St to NE 151 St", 
+        "NAME": "SR 5/Biscayne Blvd", 
+        "SHAPE_LEN": 5628.51722805
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.35166753413455, 
+            25.73269353625881
+          ], 
+          [
+            -80.35168299276698, 
+            25.739927311119597
+          ], 
+          [
+            -80.3515879541853, 
+            25.747358769646066
+          ], 
+          [
+            -80.35187774533473, 
+            25.75444511410859
+          ], 
+          [
+            -80.3523853382134, 
+            25.761730603095074
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 2.0, 
+        "LIMIT": "SW 40 St to SW 8 St", 
+        "NAME": "SW 97 Ave", 
+        "SHAPE_LEN": 10561.0835063
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.23542193707752, 
+            25.897452060418843
+          ], 
+          [
+            -80.22735940371327, 
+            25.897602228939224
+          ], 
+          [
+            -80.20321052370527, 
+            25.89862894644731
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 2.0, 
+        "LIMIT": "NW 22 Ave to NW 2 Ave", 
+        "NAME": "NW 135 St", 
+        "SHAPE_LEN": 10599.0963432
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.21126774108689, 
+            25.899761525732746
+          ], 
+          [
+            -80.2053767533172, 
+            25.899991112168248
+          ], 
+          [
+            -80.20469482371439, 
+            25.89991021521334
+          ], 
+          [
+            -80.20333744485299, 
+            25.89878396184079
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 0.5, 
+        "LIMIT": "NW 7 Ave to NW 2 Ave", 
+        "NAME": "Opa-Locka Blvd", 
+        "SHAPE_LEN": 2770.16080885
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.3688120817745, 
+            25.78419337555829
+          ], 
+          [
+            -80.37091950651573, 
+            25.783164469247964
+          ], 
+          [
+            -80.3715901256392, 
+            25.782821356658165
+          ], 
+          [
+            -80.39208163397126, 
+            25.78267329288453
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 3.0, 
+        "LIMIT": "NW 122 Ave to NW 107 Ave", 
+        "NAME": "NW 12 St", 
+        "SHAPE_LEN": 7784.67383453
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.42344131655831, 
+            25.724021782949055
+          ], 
+          [
+            -80.42084125335917, 
+            25.72409886621217
+          ], 
+          [
+            -80.41745139216295, 
+            25.721883309250323
+          ], 
+          [
+            -80.41539828136847, 
+            25.721715731234376
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 0.6, 
+        "LIMIT": "SW 142 Ave to SW 137 Ave", 
+        "NAME": "SW 47 St", 
+        "SHAPE_LEN": 2911.38964421
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.43912031365441, 
+            25.713644651685193
+          ], 
+          [
+            -80.44911580684746, 
+            25.713413593191028
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 0.6, 
+        "LIMIT": "SW 158 Ave to SW 152 Ave", 
+        "NAME": "SW 56 St", 
+        "SHAPE_LEN": 3292.1411979
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.40074794710874, 
+            25.68586172053959
+          ], 
+          [
+            -80.40013693975874, 
+            25.668322442374393
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 1.2, 
+        "LIMIT": "SW 107 St to SW 88 St", 
+        "NAME": "SW 127 Ave", 
+        "SHAPE_LEN": 6377.92539937
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.38220924052598, 
+            25.62678802306901
+          ], 
+          [
+            -80.38090553490079, 
+            25.597592051156337
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 2.0, 
+        "LIMIT": "SW 184 St to SW 152 St", 
+        "NAME": "SW 117 Ave", 
+        "SHAPE_LEN": 10620.0709872
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.41566647292845, 
+            25.72923208221349
+          ], 
+          [
+            -80.41509838401115, 
+            25.714371361481504
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 1.0, 
+        "LIMIT": "SW 72 St to SW 56 St", 
+        "NAME": "SW 137 Ave", 
+        "SHAPE_LEN": 5404.47135033
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.38211638522031, 
+            25.700704546496123
+          ], 
+          [
+            -80.38095393117837, 
+            25.700591543015815
+          ], 
+          [
+            -80.36802406304857, 
+            25.70102240824495
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 0.9, 
+        "LIMIT": "SW 117 Ave to SW 108 Ave", 
+        "NAME": "SR 986/SW 72 St", 
+        "SHAPE_LEN": 4645.58991973
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.24659874900931, 
+            25.897269584859824
+          ], 
+          [
+            -80.2441089557096, 
+            25.89803463475178
+          ], 
+          [
+            -80.2356017324927, 
+            25.898206157052503
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 0.7, 
+        "LIMIT": "NW 27 Ave to NW 22 Ave", 
+        "NAME": "SR 916/Opa-Locka Blvd", 
+        "SHAPE_LEN": 3661.98364035
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.33151766653509, 
+            25.702410823249068
+          ], 
+          [
+            -80.30557102858619, 
+            25.703514966921574
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 1.6, 
+        "LIMIT": "SW 84 Pl to SW 69 Ave", 
+        "NAME": "SR 986/Sunset Dr", 
+        "SHAPE_LEN": 8553.40942604
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.34660799729151, 
+            25.615104782592653
+          ], 
+          [
+            -80.34570168279355, 
+            25.6176887602952
+          ], 
+          [
+            -80.3333720515084, 
+            25.643874663485274
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 2.1, 
+        "LIMIT": "SW 168 St to SW 136 St", 
+        "NAME": "SR 5/US-1", 
+        "SHAPE_LEN": 11333.7118973
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.34660799729151, 
+            25.615104782592653
+          ], 
+          [
+            -80.35418144820255, 
+            25.598591352841172
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 1.2, 
+        "LIMIT": "SW 184 St to SW 168 St", 
+        "NAME": "SR 5/US-1", 
+        "SHAPE_LEN": 6500.15043932
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.33349523962332, 
+            25.643870653041123
+          ], 
+          [
+            -80.3184347808826, 
+            25.6768087285
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 2.4, 
+        "LIMIT": "SW 136 St to SW 102 St", 
+        "NAME": "SR 5/US-1", 
+        "SHAPE_LEN": 12958.8605077
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.30782788542098, 
+            25.688400050996673
+          ], 
+          [
+            -80.29833214853117, 
+            25.696525925463394
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 0.8, 
+        "LIMIT": "SW 88 St to SW 80 St", 
+        "NAME": "SR 5/US-1", 
+        "SHAPE_LEN": 4301.37963725
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.42534835966046, 
+            25.760874944791365
+          ], 
+          [
+            -80.41680308431133, 
+            25.760840962472102
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 0.5, 
+        "LIMIT": "SW 142 Ave to SW 137 Ave", 
+        "NAME": "SR 90/SW 8 St", 
+        "SHAPE_LEN": 2812.49997062
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.41680238423463, 
+            25.760984259789108
+          ], 
+          [
+            -80.38515183853927, 
+            25.76114062352659
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 2.0, 
+        "LIMIT": "SW 137 Ave to HEFT", 
+        "NAME": "SR 90/SW 8 St", 
+        "SHAPE_LEN": 10417.1874539
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.14697841678488, 
+            25.947401189269367
+          ], 
+          [
+            -80.15380161764257, 
+            25.926141555903524
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 1.5, 
+        "LIMIT": "NE 163 St to NE 186 St", 
+        "NAME": "SR 5/Biscayne Blvd", 
+        "SHAPE_LEN": 8046.35496721
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.40075269304846, 
+            25.78250206954655
+          ], 
+          [
+            -80.39952335369003, 
+            25.782199896043174
+          ], 
+          [
+            -80.39573355312191, 
+            25.782216705985878
+          ], 
+          [
+            -80.39454107704005, 
+            25.78268171389928
+          ], 
+          [
+            -80.39254716803352, 
+            25.782680624186415
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 0.5, 
+        "LIMIT": "NW 127 Ave to NW 122 Ave", 
+        "NAME": "NW 12 St", 
+        "SHAPE_LEN": 2749.68349818
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -80.4171707607358, 
+            25.7824089269137
+          ], 
+          [
+            -80.40075269304846, 
+            25.78250206954655
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "LENGTH": 1.0, 
+        "LIMIT": "NW 137 Ave to NW 127 Ave", 
+        "NAME": "NW 12 St", 
+        "SHAPE_LEN": 5402.75152121
+      }
+    }
+  ]
+}

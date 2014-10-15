@@ -1,0 +1,1479 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23192201250927, 
+          25.831095401596084
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "African Heritage Cultural Arts Center", 
+        "WEBURL": "http://www.miamidade.gov/parks/parks/african_heritage.asp", 
+        "LON": -80.23192, 
+        "ZIPCODE": 33142, 
+        "PHONE": "3056386771", 
+        "POINT_X": 908806.4373107441, 
+        "POINT_Y": 545039.81252116, 
+        "ADDRESS": "6161 NW 22 AVE", 
+        "LAT": 25.8311
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47834886948422, 
+          25.472350788071044
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "NAME": "ArtSouth, A Not-for-Profit Corporation", 
+        "WEBURL": "http://www.artsouthhomestead.org", 
+        "LON": -80.47835, 
+        "ZIPCODE": 33030, 
+        "PHONE": "3052479406", 
+        "POINT_X": 828262.749973245, 
+        "POINT_Y": 414257.40610749304, 
+        "ADDRESS": "240 N Krome AVE", 
+        "LAT": 25.47235
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2048509886958, 
+          25.80696745629444
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Bakehouse Art Complex", 
+        "WEBURL": "http://www.bacfl.org", 
+        "LON": -80.20485, 
+        "ZIPCODE": 33127, 
+        "PHONE": "3055762828", 
+        "POINT_X": 917764.125103995, 
+        "POINT_Y": 536323.000230409, 
+        "ADDRESS": "561 NW 32ND ST", 
+        "LAT": 25.80697
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27584355963701, 
+          25.676137785831614
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "NAME": "Fairchild Tropical Botanic Garden", 
+        "WEBURL": "http://www.fairchildgarden.org", 
+        "LON": -80.27584, 
+        "ZIPCODE": 33156, 
+        "PHONE": "3056671651", 
+        "POINT_X": 894668.375035744, 
+        "POINT_Y": 488636.718634658, 
+        "ADDRESS": "10901 Old Cutler RD", 
+        "LAT": 25.67614
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27066184735781, 
+          25.918386177279242
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Gardens", 
+        "NAME": "Florida Memorial University - Lou Rawls Performing Arts Center", 
+        "WEBURL": "http://www.fda-online.com/project_detail.php?id=47", 
+        "LON": -80.27066, 
+        "ZIPCODE": 33054, 
+        "PHONE": "3056263600", 
+        "POINT_X": 895887.249894578, 
+        "POINT_Y": 576694.62519566, 
+        "ADDRESS": "15800 NW 42ND AVE", 
+        "LAT": 25.91839
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27967831291706, 
+          25.74088784635264
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "NAME": "Gablestage", 
+        "WEBURL": "http://www.gablestage.org", 
+        "LON": -80.27968, 
+        "ZIPCODE": 33134, 
+        "PHONE": "3054461116", 
+        "POINT_X": 893277.000193831, 
+        "POINT_Y": 512163.812656492, 
+        "ADDRESS": "1200 Anastasia AVE", 
+        "LAT": 25.74089
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19056030630098, 
+          25.773940866282928
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Gusman Center for the Performing Arts", 
+        "WEBURL": "http://www.gusmancenter.org", 
+        "LON": -80.19056, 
+        "ZIPCODE": 33131, 
+        "PHONE": "3053742444", 
+        "POINT_X": 922539.624411244, 
+        "POINT_Y": 524347.562895238, 
+        "ADDRESS": "174 East Flagler ST", 
+        "LAT": 25.77394
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23326453354144, 
+          25.824722646570766
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Joseph Caleb Auditorium", 
+        "WEBURL": "http://www.miamidade.gov/parks/parks/caleb_auditorium.asp", 
+        "LON": -80.23326, 
+        "ZIPCODE": 33142, 
+        "PHONE": "3056362350", 
+        "POINT_X": 908378.3377732451, 
+        "POINT_Y": 542720.947408237, 
+        "ADDRESS": "5400 NW 22ND AVE", 
+        "LAT": 25.82472
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3967940551081, 
+          25.621607448514744
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Zoo Miami", 
+        "WEBURL": "http://www.miamimetrozoo.com", 
+        "LON": -80.39679, 
+        "ZIPCODE": 33177, 
+        "PHONE": "7866193418", 
+        "POINT_X": 854922.500131328, 
+        "POINT_Y": 468617.687150493, 
+        "ADDRESS": "12400 SW 152ND ST", 
+        "LAT": 25.62161
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.17652958371367, 
+          25.784706135448268
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Miami Children's Museum", 
+        "WEBURL": "http://www.miamichildrensmuseum.org", 
+        "LON": -80.17653, 
+        "ZIPCODE": 33132, 
+        "PHONE": "3053735437", 
+        "POINT_X": 927132.636878744, 
+        "POINT_Y": 528289.006127827, 
+        "ADDRESS": "980 MacArthur CSWY", 
+        "LAT": 25.78471
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2411986404943, 
+          25.77298656663328
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Miami-Dade County Auditorium", 
+        "WEBURL": "http://www.miamidade.gov/Parks/Parks/mdc_auditorium.asp", 
+        "LON": -80.2412, 
+        "ZIPCODE": 33135, 
+        "PHONE": "3055475414", 
+        "POINT_X": 905876.769285578, 
+        "POINT_Y": 523901.53458782303, 
+        "ADDRESS": "2901 W Flagler ST", 
+        "LAT": 25.77299
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19391102902534, 
+          25.865602939177535
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Shores", 
+        "NAME": "The PlayGround Theatre", 
+        "WEBURL": "http://www.theplaygroundtheatre.com", 
+        "LON": -80.19391, 
+        "ZIPCODE": 33138, 
+        "PHONE": "3057519550", 
+        "POINT_X": 921232.749728411, 
+        "POINT_Y": 557657.124884903, 
+        "ADDRESS": "9806 NE 2nd AVE", 
+        "LAT": 25.8656
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13253379396949, 
+          25.780875358046146
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "The Wolfsonian-FIU", 
+        "WEBURL": "http://www.wolfsonian.org", 
+        "LON": -80.13253, 
+        "ZIPCODE": 33139, 
+        "PHONE": "3055352631", 
+        "POINT_X": 941619.4582987471, 
+        "POINT_Y": 526989.5667975771, 
+        "ADDRESS": "1001 Washington AVE", 
+        "LAT": 25.78088
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21201106365274, 
+          25.747525001407848
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Miami Science Museum", 
+        "WEBURL": "http://www.miamisci.org", 
+        "LON": -80.21201, 
+        "ZIPCODE": 33129, 
+        "PHONE": "3056464200", 
+        "POINT_X": 915537.651866663, 
+        "POINT_Y": 514703.524440572, 
+        "ADDRESS": "3280 S Miami AVE", 
+        "LAT": 25.74753
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19687875344123, 
+          25.774566415702665
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "HistoryMiami", 
+        "WEBURL": "http://www.historical-museum.org", 
+        "LON": -80.19688, 
+        "ZIPCODE": 33130, 
+        "PHONE": "3053751492", 
+        "POINT_X": 920458.858559661, 
+        "POINT_Y": 524562.204854406, 
+        "ADDRESS": "101 W Flagler ST", 
+        "LAT": 25.77457
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13436734642039, 
+          25.77250641648356
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "Jewish Museum of Florida", 
+        "WEBURL": "http://www.jewishmuseum.com", 
+        "LON": -80.13437, 
+        "ZIPCODE": 33139, 
+        "PHONE": "3056725044", 
+        "POINT_X": 941036.0582188291, 
+        "POINT_Y": 523943.735290825, 
+        "ADDRESS": "301 Washington AVE", 
+        "LAT": 25.77251
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13978772550281, 
+          25.790147650354985
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "The Colony Theater", 
+        "WEBURL": "http://www.colonytheatremiamibeach.com", 
+        "LON": -80.13979, 
+        "ZIPCODE": 33139, 
+        "PHONE": "3056741040", 
+        "POINT_X": 939210.3181039131, 
+        "POINT_Y": 530344.116518907, 
+        "ADDRESS": "1040 Lincoln RD", 
+        "LAT": 25.79015
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12368634802338, 
+          25.8558100587443
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "Byron Carlyle Theater", 
+        "WEBURL": "http://www.miamibeachculture.com/index.htm", 
+        "LON": -80.12369, 
+        "ZIPCODE": 33139, 
+        "PHONE": "3056741040", 
+        "POINT_X": 944349.544373997, 
+        "POINT_Y": 554245.5805269029, 
+        "ADDRESS": "500 71st ST", 
+        "LAT": 25.85581
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13015444394598, 
+          25.79767721675556
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "Bass Museum", 
+        "WEBURL": "http://www.bassmuseum.org", 
+        "LON": -80.13015, 
+        "ZIPCODE": 33139, 
+        "PHONE": "3056737530", 
+        "POINT_X": 942362.1172464939, 
+        "POINT_Y": 533101.7222241539, 
+        "ADDRESS": "2121 Park AVE", 
+        "LAT": 25.79768
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18293640334977, 
+          25.889774965147616
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "NAME": "Museum of Contemporary Art (MOCA)", 
+        "WEBURL": "http://www.mocanomi.org", 
+        "LON": -80.18294, 
+        "ZIPCODE": 33131, 
+        "PHONE": "3058936211", 
+        "POINT_X": 924786.998525411, 
+        "POINT_Y": 566465.293620236, 
+        "ADDRESS": "770 NE 125TH ST", 
+        "LAT": 25.88977
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23457488839416, 
+          25.910181662821763
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "Little Stage Theatre", 
+        "WEBURL": "http://www.sobearts.org", 
+        "LON": -80.23457, 
+        "ZIPCODE": 33054, 
+        "PHONE": "3056749220", 
+        "POINT_X": 907766.236963328, 
+        "POINT_Y": 573780.151365824, 
+        "ADDRESS": "2100 Washington Ave", 
+        "LAT": 25.91018
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.36924741533478, 
+          25.570454287018535
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Cutler Bay", 
+        "NAME": "South Miami-Dade Cultural Arts Center", 
+        "WEBURL": "http://www.smdcac.org", 
+        "LON": -80.36925, 
+        "ZIPCODE": 33189, 
+        "PHONE": "7865735316", 
+        "POINT_X": 864087.745580331, 
+        "POINT_Y": 450068.37582399, 
+        "ADDRESS": "10950 SW 211th ST", 
+        "LAT": 25.57045
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37682888942074, 
+          25.67285322185981
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Alfred McCarthy Theater", 
+        "WEBURL": "http://www.mdc.edu", 
+        "LON": -80.37683, 
+        "ZIPCODE": 33176, 
+        "PHONE": "3052372107", 
+        "POINT_X": 861413.48124383, 
+        "POINT_Y": 487273.484484486, 
+        "ADDRESS": "11011 SW 104th ST", 
+        "LAT": 25.67285
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18780483765191, 
+          25.781232241912875
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "American Airlines Arena", 
+        "WEBURL": "http://www.aaarena.com", 
+        "LON": -80.1878, 
+        "ZIPCODE": 33132, 
+        "PHONE": "7867771000", 
+        "POINT_X": 923430.102289081, 
+        "POINT_Y": 527003.319722824, 
+        "ADDRESS": "601 Biscayne BLVD", 
+        "LAT": 25.78123
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2848872488466, 
+          25.710635989928623
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "NAME": "Bank United Center", 
+        "WEBURL": "http://www.miami.edu", 
+        "LON": -80.28489, 
+        "ZIPCODE": 33146, 
+        "PHONE": "3052846376", 
+        "POINT_X": 891621.8752232459, 
+        "POINT_Y": 501159.15618816, 
+        "ADDRESS": "1535 Levante AVE", 
+        "LAT": 25.71064
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.285589094061, 
+          25.669710333540745
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Pinecrest", 
+        "NAME": "Banyan Bowl at Pinecrest Gardens", 
+        "WEBURL": "http://www.pinecrest-fl.gov/index.aspx?page=465", 
+        "LON": -80.28559, 
+        "ZIPCODE": 33156, 
+        "PHONE": "3056696990", 
+        "POINT_X": 891471.187532496, 
+        "POINT_Y": 486283.15608457505, 
+        "ADDRESS": "11000 Red Road", 
+        "LAT": 25.66971
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19615815392021, 
+          25.87907742805575
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Shores", 
+        "NAME": "Broad Center", 
+        "WEBURL": "http://www.barry.edu", 
+        "LON": -80.19616, 
+        "ZIPCODE": 33161, 
+        "PHONE": "3058994057", 
+        "POINT_X": 920463.812289912, 
+        "POINT_Y": 562550.187605321, 
+        "ADDRESS": "11300 NE 2nd AVE", 
+        "LAT": 25.87908
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27740688067415, 
+          25.719141650306458
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "NAME": "Clarke Recital Hall / L. Austin Weeks Center", 
+        "WEBURL": "http://www.music.miami.edu", 
+        "LON": -80.27741, 
+        "ZIPCODE": 33146, 
+        "PHONE": "3052842241", 
+        "POINT_X": 894067.9956590789, 
+        "POINT_Y": 504264.025634572, 
+        "ADDRESS": "5501 San Amaro DR", 
+        "LAT": 25.71914
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.29897997989747, 
+          25.861135653047214
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "NAME": "Goodlet Theatre", 
+        "WEBURL": "http://www.hialeahfl.gov/index.php?option=com_content&view=article&id=173:parks-facilities&catid=31:parks-recreation&Itemid=459&lang=en", 
+        "LON": -80.29898, 
+        "ZIPCODE": 33012, 
+        "PHONE": "3058245702", 
+        "POINT_X": 886690.45726458, 
+        "POINT_Y": 555835.164618075, 
+        "ADDRESS": "4200 W 8th AVE", 
+        "LAT": 25.86114
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16121362391381, 
+          25.932009306420788
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami Beach", 
+        "NAME": "Gwen Margolis Amphitheater", 
+        "WEBURL": "http://www.citynmb.com/index.asp?Type=B_BASIC&SEC=%7B20BCEA39-C1FE-47AB-B844-DB62496A9A7E%7D", 
+        "LON": -80.16121, 
+        "ZIPCODE": 33162, 
+        "PHONE": "3059482958", 
+        "POINT_X": 931830.749857828, 
+        "POINT_Y": 581861.500032492, 
+        "ADDRESS": "17051 NE 19th AVE", 
+        "LAT": 25.93201
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19109887087014, 
+          25.771004027592046
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "James L. Knight Center", 
+        "WEBURL": "http://www.jlkc.com", 
+        "LON": -80.1911, 
+        "ZIPCODE": 33131, 
+        "PHONE": "3053724633", 
+        "POINT_X": 922368.937416662, 
+        "POINT_Y": 523279.03091157204, 
+        "ADDRESS": "400 SE 2nd Ave", 
+        "LAT": 25.771
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.16164422125502, 
+          25.932370690264616
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami Beach", 
+        "NAME": "Julius Littman Performing Arts Theater", 
+        "WEBURL": "http://www.citynmb.com/index.asp?SEC={C42D026E-988E-4CEC-B56F-02B0AF78F46F}&Type=B_BASIC", 
+        "LON": -80.16164, 
+        "ZIPCODE": 33162, 
+        "PHONE": "3057876005", 
+        "POINT_X": 931688.38892208, 
+        "POINT_Y": 581991.948590487, 
+        "ADDRESS": "17011 NE 19th AVE", 
+        "LAT": 25.93237
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23854255693442, 
+          25.958398912345423
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Gardens", 
+        "NAME": "Sun Life Stadium", 
+        "WEBURL": "http://www.landsharkstadium.com", 
+        "LON": -80.23854, 
+        "ZIPCODE": 33056, 
+        "PHONE": "3056236100", 
+        "POINT_X": 906360.124946162, 
+        "POINT_Y": 591298.187851988, 
+        "ADDRESS": "2269 Dan Marino BLVD", 
+        "LAT": 25.9584
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19130754996436, 
+          25.83040197466762
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Little Haiti Cultural Center", 
+        "WEBURL": "http://www.miamigov.com/LHCulturalcenter/pages", 
+        "LON": -80.19131, 
+        "ZIPCODE": 33137, 
+        "PHONE": "3059602969", 
+        "POINT_X": 922167.624827161, 
+        "POINT_Y": 544867.875200987, 
+        "ADDRESS": "212 NE 59th TER", 
+        "LAT": 25.8304
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.23326453354144, 
+          25.824722646570766
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Lyric Theatre", 
+        "WEBURL": "http://www.theblackarchives.org", 
+        "LON": -80.23326, 
+        "ZIPCODE": 33142, 
+        "PHONE": "3056362390", 
+        "POINT_X": 908378.3377732451, 
+        "POINT_Y": 542720.947408237, 
+        "ADDRESS": "5400 NW 22nd AVE", 
+        "LAT": 25.82472
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.20956624685856, 
+          25.772376101894835
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Manuel Artime Theatre", 
+        "WEBURL": "http://www.manuelartimetheater.com", 
+        "LON": -80.20957, 
+        "ZIPCODE": 33130, 
+        "PHONE": "3055755058", 
+        "POINT_X": 916288.250102997, 
+        "POINT_Y": 523740.85052599, 
+        "ADDRESS": "900 SW 1st ST", 
+        "LAT": 25.77238
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13981743854916, 
+          25.915422519303004
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "North Miami", 
+        "NAME": "Mary Ann Wolfe Auditorium", 
+        "WEBURL": "http://wuc.fiu.edu", 
+        "LON": -80.13982, 
+        "ZIPCODE": 33181, 
+        "PHONE": "3059195800", 
+        "POINT_X": 938902.425346997, 
+        "POINT_Y": 575878.1776815731, 
+        "ADDRESS": "3000 NE 151st ST", 
+        "LAT": 25.91542
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13452389002038, 
+          25.795230107600258
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "Miami Beach Convention Center", 
+        "WEBURL": "http://www.miamibeachconvention.com", 
+        "LON": -80.13452, 
+        "ZIPCODE": 33139, 
+        "PHONE": "3056737311", 
+        "POINT_X": 940930.26643566, 
+        "POINT_Y": 532202.792591572, 
+        "ADDRESS": "1901 Convention Center DR", 
+        "LAT": 25.79523
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12107987040709, 
+          25.858205646094433
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "North Beach Bandshell", 
+        "WEBURL": "http://www.miamibeachfl.gov", 
+        "LON": -80.12108, 
+        "ZIPCODE": 33139, 
+        "PHONE": "3059932001", 
+        "POINT_X": 945200.921936329, 
+        "POINT_Y": 555122.0433409071, 
+        "ADDRESS": "7275 Collins Avenue", 
+        "LAT": 25.85821
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19688429292049, 
+          25.80364645214956
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "O Cinema", 
+        "WEBURL": "http://www.o-cinema.org", 
+        "LON": -80.19688, 
+        "ZIPCODE": 33127, 
+        "PHONE": "3058077304", 
+        "POINT_X": 920392.57489958, 
+        "POINT_Y": 535131.83693032, 
+        "ADDRESS": "90 NW 29th ST", 
+        "LAT": 25.80365
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37064833272608, 
+          25.64054567295585
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Pinecrest", 
+        "NAME": "Phil Fung Studios and Cultural Center - Pinecrest", 
+        "WEBURL": "http://www.philfung.com", 
+        "LON": -80.37065, 
+        "ZIPCODE": 33156, 
+        "PHONE": "3052994664", 
+        "POINT_X": 863505.000026662, 
+        "POINT_Y": 475540.875075743, 
+        "ADDRESS": "13801 SW 109th AVE", 
+        "LAT": 25.64055
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28002064465844, 
+          25.719672616430202
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "NAME": "Ring Theatre", 
+        "WEBURL": "http://www.miami.edu/ring", 
+        "LON": -80.28002, 
+        "ZIPCODE": 33124, 
+        "PHONE": "3052843355", 
+        "POINT_X": 893206.377959747, 
+        "POINT_Y": 504452.308722571, 
+        "ADDRESS": "1312 Miller DR", 
+        "LAT": 25.71967
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.28414184468443, 
+          25.70812696476348
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "NAME": "Riviera Theatre", 
+        "WEBURL": "http://www.areastagecompany.com", 
+        "LON": -80.28414, 
+        "ZIPCODE": 33146, 
+        "PHONE": "3056662078", 
+        "POINT_X": 891872.254971828, 
+        "POINT_Y": 500248.558599904, 
+        "ADDRESS": "1560 S Dixie HWY", 
+        "LAT": 25.70813
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37362631502182, 
+          25.665621885395954
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Robert Russell Theater", 
+        "WEBURL": "http://www.alperjcc.org", 
+        "LON": -80.37363, 
+        "ZIPCODE": 33176, 
+        "PHONE": "3052719000", 
+        "POINT_X": 862480.750106663, 
+        "POINT_Y": 484650.21906174, 
+        "ADDRESS": "11155 SW 112th AVE", 
+        "LAT": 25.66562
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47764779245013, 
+          25.470276160921234
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "NAME": "Seminole Theatre", 
+        "WEBURL": "http://www.seminoletheatre.com", 
+        "LON": -80.47765, 
+        "ZIPCODE": 33030, 
+        "PHONE": "3052429320", 
+        "POINT_X": 828497.000160914, 
+        "POINT_Y": 413504.312469326, 
+        "ADDRESS": "18 N Krome AVE", 
+        "LAT": 25.47028
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.37249476226151, 
+          25.752488069047377
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Wertheim Performing Arts Center", 
+        "WEBURL": "http://music.fiu.edu", 
+        "LON": -80.37249, 
+        "ZIPCODE": 33165, 
+        "PHONE": "3053482896", 
+        "POINT_X": 862703.4642281609, 
+        "POINT_Y": 516223.906898491, 
+        "ADDRESS": "10910 SW 17th ST", 
+        "LAT": 25.75249
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2399962085823, 
+          25.72685033976393
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coconut Grove", 
+        "NAME": "Woman's Club of Coconut Grove", 
+        "WEBURL": "http://coconutgroveevents.com/about.html", 
+        "LON": -80.24, 
+        "ZIPCODE": 33133, 
+        "PHONE": "3054462909", 
+        "POINT_X": 906369.12558433, 
+        "POINT_Y": 507135.000207573, 
+        "ADDRESS": "2985 S Bayshore DR", 
+        "LAT": 25.72685
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12949973481385, 
+          25.79820571571348
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "Miami City Ballet/ Ophelia & Juan Js. Roca Center", 
+        "WEBURL": "http://www.miamicityballet.org", 
+        "LON": -80.1295, 
+        "ZIPCODE": 33139, 
+        "PHONE": "3059297000", 
+        "POINT_X": 942576.268721078, 
+        "POINT_Y": 533295.240537904, 
+        "ADDRESS": "2200 Liberty AVE", 
+        "LAT": 25.79821
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18619212792724, 
+          25.77574747955742
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Bayfront Park", 
+        "WEBURL": "http://www.livenation.com", 
+        "LON": -80.18619, 
+        "ZIPCODE": 33132, 
+        "PHONE": "3059382505", 
+        "POINT_X": 923973.12285658, 
+        "POINT_Y": 525013.062876575, 
+        "ADDRESS": "301 N Biscayne BLVD", 
+        "LAT": 25.77575
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27681450711302, 
+          25.722070817155306
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "NAME": "Bill Cosford Cinema", 
+        "WEBURL": "http://www.miami.edu/com", 
+        "LON": -80.27681, 
+        "ZIPCODE": 33146, 
+        "PHONE": "3052852265", 
+        "POINT_X": 894257.1986927461, 
+        "POINT_Y": 505329.727899492, 
+        "ADDRESS": "1111 Memorial DR", 
+        "LAT": 25.72207
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18618716667787, 
+          25.78602531833345
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "P\u00e9rez Art Museum Miami", 
+        "WEBURL": "http://www.pamm.org/parking", 
+        "LON": -80.18619, 
+        "ZIPCODE": 33132, 
+        "PHONE": "3053753000", 
+        "POINT_X": 923951.676377162, 
+        "POINT_Y": 528748.733554825, 
+        "ADDRESS": "1103 Biscayne Blvd", 
+        "LAT": 25.78603
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18986990966678, 
+          25.787621708234532
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Adrienne Arsht Center for the Performing Arts of Miami-Dade County -Sanford", 
+        "WEBURL": "http://www.arshtcenter.org", 
+        "LON": -80.18987, 
+        "ZIPCODE": 33132, 
+        "PHONE": "7864682000", 
+        "POINT_X": 922736.250330329, 
+        "POINT_Y": 529321.4981573219, 
+        "ADDRESS": "1300 Biscayne Blvd", 
+        "LAT": 25.78762
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13037192967383, 
+          25.78038822673577
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "Art Deco Welcome Center", 
+        "WEBURL": "http://www.mdpl.org", 
+        "LON": -80.13037, 
+        "ZIPCODE": 33139, 
+        "PHONE": "3056722014", 
+        "POINT_X": 942332.0552987461, 
+        "POINT_Y": 526817.1996882411, 
+        "ADDRESS": "1001 Ocean Drive", 
+        "LAT": 25.78039
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.27944508927355, 
+          25.71963532399678
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "NAME": "Gusman Concert Hall", 
+        "WEBURL": "http://www.music.miami.edu", 
+        "LON": -80.27945, 
+        "ZIPCODE": 33146, 
+        "PHONE": "3052842438", 
+        "POINT_X": 893395.9491029121, 
+        "POINT_Y": 504439.78840640903, 
+        "ADDRESS": "1314 Miller Drive", 
+        "LAT": 25.71964
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2770859694086, 
+          25.86554420441628
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Hialeah", 
+        "NAME": "Hialeah High School Auditorium", 
+        "WEBURL": "http://www.hialeahhigh.org", 
+        "LON": -80.27709, 
+        "ZIPCODE": 33013, 
+        "PHONE": "3058221500", 
+        "POINT_X": 893881.510139663, 
+        "POINT_Y": 557476.5530675721, 
+        "ADDRESS": "251 E 47th Street", 
+        "LAT": 25.86554
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.47004326549988, 
+          25.465255449759447
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "NAME": "Homestead Sports Complex", 
+        "WEBURL": "http://www.cityofhomestead.com", 
+        "LON": -80.47004, 
+        "ZIPCODE": 33030, 
+        "PHONE": "3052244570", 
+        "POINT_X": 831013.128658827, 
+        "POINT_Y": 411689.499169827, 
+        "ADDRESS": "350 SE 6th Avenue", 
+        "LAT": 25.46526
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24565650257192, 
+          25.877934862632657
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Lehman Theater", 
+        "WEBURL": "http://www.mdc.edu/north/performingarts/events.asp", 
+        "LON": -80.24566, 
+        "ZIPCODE": 33167, 
+        "PHONE": "3052371091", 
+        "POINT_X": 904190.909140244, 
+        "POINT_Y": 562038.29984957, 
+        "ADDRESS": "11380 NW 27th Avenue", 
+        "LAT": 25.87793
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.3692474176276, 
+          25.570454294072057
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Cutler Bay", 
+        "NAME": "South Miami-Dade Cultural Arts Center - Black Box", 
+        "WEBURL": "http://www.smdcac.org", 
+        "LON": -80.36925, 
+        "ZIPCODE": 33189, 
+        "PHONE": "7865735316", 
+        "POINT_X": 864087.744596079, 
+        "POINT_Y": 450068.378448658, 
+        "ADDRESS": "10950 SW 211th ST", 
+        "LAT": 25.57045
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.24083263722737, 
+          25.75049930241063
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "WDNA Jazz Gallery", 
+        "WEBURL": "http://www.wdna.org", 
+        "LON": -80.24083, 
+        "ZIPCODE": 33145, 
+        "PHONE": "3056628889", 
+        "POINT_X": 906044.2912602461, 
+        "POINT_Y": 515728.925933071, 
+        "ADDRESS": "2921 Coral Way", 
+        "LAT": 25.7505
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.19122444157983, 
+          25.7776381439375
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Wolfson Auditorium", 
+        "WEBURL": "http://www.mdc.edu/wolfson", 
+        "LON": -80.19122, 
+        "ZIPCODE": 33132, 
+        "PHONE": "3052373788", 
+        "POINT_X": 922312.81023233, 
+        "POINT_Y": 525690.059225991, 
+        "ADDRESS": "300 NE 2nd Ave", 
+        "LAT": 25.77764
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.132146660738, 
+          25.791934464322924
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "The Filmore at The Jackie Gleason Theatre", 
+        "WEBURL": "http://www.fillmoremb.com", 
+        "LON": -80.13215, 
+        "ZIPCODE": 33139, 
+        "PHONE": "5617958883", 
+        "POINT_X": 941720.368201912, 
+        "POINT_Y": 531010.0699114051, 
+        "ADDRESS": "1700 Washington Avenue", 
+        "LAT": 25.79193
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.13328846730963, 
+          25.791162982964632
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "New World Center", 
+        "WEBURL": "http://www.newworldcenter.com", 
+        "LON": -80.13329, 
+        "ZIPCODE": 33139, 
+        "PHONE": "3056733330", 
+        "POINT_X": 941346.502151746, 
+        "POINT_Y": 530727.1839942411, 
+        "ADDRESS": "500 17th Street\u00a0\u00a0", 
+        "LAT": 25.79116
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.12618025482183, 
+          25.823162960582163
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami Beach", 
+        "NAME": "Arts at St. Johns", 
+        "WEBURL": "http://www.artsatstjohns.com", 
+        "LON": -80.12618, 
+        "ZIPCODE": 33140, 
+        "PHONE": "3056132325", 
+        "POINT_X": 943608.247300163, 
+        "POINT_Y": 542373.74895566, 
+        "ADDRESS": "4760 Pine Tree Drive", 
+        "LAT": 25.82316
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.21817991758729, 
+          25.82060312770632
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Carrie P. Meek Senior and Cultural Center at Hadley Park", 
+        "WEBURL": "http://www.miamigov.com/Parks/pages/park_listings", 
+        "LON": -80.21818, 
+        "ZIPCODE": 33142, 
+        "PHONE": "3056378200", 
+        "POINT_X": 913349.395744495, 
+        "POINT_Y": 541252.8479822429, 
+        "ADDRESS": "1300 NW 50th Street", 
+        "LAT": 25.8206
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.45921618464658, 
+          25.502318803537218
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Homestead", 
+        "NAME": "South Dade Senior High Auditorium", 
+        "WEBURL": "http://sdshs.net", 
+        "LON": -80.45922, 
+        "ZIPCODE": 33033, 
+        "PHONE": "3052474244", 
+        "POINT_X": 834530.625888914, 
+        "POINT_Y": 425174.15888024104, 
+        "ADDRESS": "28401 SW 167th Avenue", 
+        "LAT": 25.50232
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.2604111114003, 
+          25.74902470156657
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Coral Gables", 
+        "NAME": "Actors' Playhouse - The Miracle Theatre", 
+        "WEBURL": "http://www.actorsplayhouse.org", 
+        "LON": -80.26041, 
+        "ZIPCODE": 33134, 
+        "PHONE": "3054449293", 
+        "POINT_X": 899602.874681164, 
+        "POINT_Y": 515156.34374490404, 
+        "ADDRESS": "280 Miracle Mile", 
+        "LAT": 25.74902
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [
+          -80.18986990964285, 
+          25.787621711756035
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "CITY": "Miami", 
+        "NAME": "Adrienne Arsht Center for the Performing Arts of Miami-Dade County Knight", 
+        "WEBURL": "http://www.arshtcenter.org", 
+        "LON": -80.18987, 
+        "ZIPCODE": 33132, 
+        "PHONE": "7864682000", 
+        "POINT_X": 922736.250330329, 
+        "POINT_Y": 529321.49946966, 
+        "ADDRESS": "1300 Biscayne Blvd", 
+        "LAT": 25.78762
+      }
+    }
+  ]
+}
